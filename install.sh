@@ -1,2 +1,2 @@
-yum -y install gcc-c++ lrzsz openssl openssl-devel uuid uuid-devel libuuid libuuid-devel
+yum -y install gcc-c++ lrzsz openssl openssl-devel uuid uuid-devel libuuid libuuid-devel git 
 
